@@ -11,6 +11,7 @@ canvas {
 }
 
 # get-started-btn {
+  display: none;
   font-family: 'Roboto', sans-serif; /* Ensure you have the Roboto font loaded */
   border-radius: 20px; /* Adjust as needed to achieve the nearly rounded look */
   padding: 10px 20px;
