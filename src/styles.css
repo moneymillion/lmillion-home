@@ -9,3 +9,18 @@ body {
 canvas {
   display: block;
 }
+
+# get-started-btn {
+  font-family: 'Roboto', sans-serif; /* Ensure you have the Roboto font loaded */
+  border-radius: 20px; /* Adjust as needed to achieve the nearly rounded look */
+  padding: 10px 20px;
+  background-color: #007bff; /* Example background color */
+  color: white; /* Text color */
+  border: none;
+  cursor: pointer;
+  font-size: 16px; /* Adjust font size as needed */
+}
+
+# get-started-btn:hover {
+  background-color: #0056b3; /* Darker shade for hover effect */
+}
